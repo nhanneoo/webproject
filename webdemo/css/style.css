@@ -1,0 +1,415 @@
+	body{
+	background-color: rgb(200,200,200);
+}
+img {
+	max-width: 100%;
+}
+.margin200{
+	margin-left: 200px;
+	margin-right: 200px;
+}
+.clear{
+	clear: both;
+}
+.top-header{
+	width: 100%;
+	height: 780px;
+	background-image: url('../images/ghijkl.jpg');
+	background-position: center center;
+	background-size:cover;
+}
+.color1 {
+	padding-top: 10px;
+    background-image: linear-gradient(90deg, #f76570, #f5816e 16%, #f3a46b 0, #f3a46b 33%, #ffd205 0, #ffd205 50%, #1bbc9b 0, #1bbc9b 66%, #14b9d5 67%, #14b9d5 83%, #c377e4 0, #c377e4);
+    height: 3px;
+}
+/* Start header css*/
+.header{
+	width: 100%;
+	padding: 25px 0;
+}
+.header-content{
+	width: 60%;
+	margin: 0 auto;
+	color: white;
+	text-align: right;
+	margin-right: 5px;
+}
+.header-content i{
+	margin-right: 10px;
+}
+.header-content span{
+	margin-right: 20px;
+}
+/* End header css*/
+/* Start navbar css*/
+.container-fluid{
+	width: 50%;
+	margin-top: 10px
+}
+.navbar-default {
+    background-color: red;	
+}
+.myNavbar{
+	padding: 20px;
+	background-color: rgb(29,57,110);
+	opacity: 0.8;
+  	filter: alpha(opacity=80);
+}
+.myNavbar-brand, .container-fluid, .social{
+	float: left;
+}
+.navbar-default .navbar-nav>li>a {
+    color: black;
+	font-size: 15px;
+	text-decoration: none;
+	text-align: center;
+	margin-right: 40px;
+}
+.myNavbar-brand{
+	width: 30%;
+	padding-top: 5px;
+	padding-left: 100px;
+}
+
+.social{
+	width: 20%;
+	padding: 20px;
+	text-align: center;	
+	float: right;
+}
+.social-item{
+	float: right;
+	margin-right: 40px;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+}
+.social-item i{
+	font-size: 20px;
+	text-align: center; 	
+	padding-top: 5px;
+}
+.fb-social{
+	background-color: white;
+	color: blue;
+}
+.instagram-social{
+	background-color: white;
+	color: blue;
+}
+.in-social{
+	background-color: white;
+	color: blue;
+}
+/* End navbar css*/
+/* Start slider css*/
+.slider{
+	color: white;
+	margin: 50px;
+	margin-top: 150px;
+}
+.slider-caption{
+	font-size: 40px;
+}
+.button1{
+	background-color: rgb(0,113,188);
+  	border: none;
+  	color: white;
+  	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 30px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+.banchon1, .datlich{
+	font-size: 30px;
+	padding: 20px 40px;
+}
+.kdt{
+	font-size: 30px;
+}
+/* End slider css*/
+/*Start mid1 css*/
+.mid1{
+}
+.dtdctc{
+	font-size: 40px;
+	color: black;
+	text-align: center;
+	padding: 40px;
+}
+.mid1, .row{
+	padding: 30px;
+}
+.selection h4{
+	padding-top: 20px;
+	font-size: 30px;
+}
+.selection1 p{
+	padding-top: 20px;
+	color: gray;
+	font-size: 20px;
+}
+.selection1 a{
+	font-size: 20px;
+}
+/*End mid1 css*/
+/*Start container mid2 css*/
+.row{
+	font-size: 40px;
+	font-weight: bold;
+	color: black;
+}
+.selection2{
+	padding-top: 30px;
+	color: gray;
+	font-size: 40px;
+}
+.banchon2{
+	width: 100%;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+.datlich2{
+	display: table;
+	color: white;
+	background-color: rgb(247,147,30);
+	clear: both;
+	font-size: 30px;
+	padding: 20px 40px;
+}
+.button2 {
+  background-color: rgb(247,147,30);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+/*End container mid2 css*/
+/*Star mid3 css*/
+.truso{
+	margin-bottom: 70px;
+	margin-left: 50px;
+	width: 60%;
+	margin-left: 200px;
+}
+.truso, .row1{
+	padding-left: 100px;
+}
+.row1 h2{
+	color: gray;
+}
+.row2 h2{
+	color: gray;
+}
+.row2{
+	margin-top: 50px;
+	width: 90%;
+}
+.row2, .bentrai{
+	float: left;
+}
+.row2, .benphai{
+	float: right;
+}
+.row2 h3{
+	width: 100%;
+	color: gray;
+	line-height: 40px;
+}
+/*End mid3 css*/
+/*Star mid4 css*/
+.center{
+	text-align: center;
+}
+.tinmoinhat{
+	margin-top: 40px;
+	font-size: 60px;
+	font-weight: bold;
+	color: black;
+}
+.margintop50{
+	margin-top: 50px;
+}
+.bao{
+	width: 100%;
+}
+.canchinh{
+	padding: 50px;
+}
+.selection3	{
+	width: 100%;
+	height: 250px;
+	padding: 20px 30px;
+	background-color: rgb(128,128,128);
+	color: black;
+}
+.selection3 p{
+	padding-top: 20px;
+	color: black;
+	font-size: 20px;
+}
+.selection3 h3{
+	font-size: 20px;
+	color: rgb(195,53,58);
+}
+.margin40{
+	margin: 40px;
+}
+.selection5{
+}
+
+/*End mid4 css*/
+/*Start mid 5 css*/
+.partner-logo{
+	border: 2px solid #f7f7f7; margin-bottom: 30px; 
+}
+img.grayscale{ 
+	filter: grayscale(1); opacity: .6; cursor: pointer; 
+}
+img.grayscale:hover{
+	filter: grayscale(0); opacity: 1; transition-property: filter; transition-duration: 1s; 
+}
+.mid5{
+	text-align: center;
+	margin: 100px;
+}
+.rong80{
+	text-align: center;
+	background-color: rgb(248,249,250);
+}
+.doitacgla{
+	margin-bottom: 100px;
+}
+/*End mid5 css*/
+/*Star mid6 css*/
+.bg-image{
+	background-image: url('../images/ghijkl.jpg');   
+	padding: 0px 0px;
+	background-size:cover;
+}
+input.form-control { 
+	font-size: 20px;
+	height:80px; 
+	background: #f7f7f7; 
+	border: 1px solid #e4e4e4; 
+	border-radius: 10px; 
+	-webkit-box-shadow: inset 0 0px 0px rgba(0, 0, 0, .075); 
+	box-shadow: inset 0 0px 0px rgba(0, 0, 0, .075); 
+}
+input.bura {
+	height:140px; 
+	background: #f7f7f7; 
+	border: 1px solid #e4e4e4; 
+	border-radius: 10px; 
+	-webkit-box-shadow: inset 0 0px 0px rgba(0, 0, 0, .075); 
+	box-shadow: inset 0 0px 0px rgba(0, 0, 0, .075); 
+}
+
+
+.card-header { 
+	color: red;
+	background-color: white; 
+	padding: 15px 30px; 
+}
+.tttm{
+	color: rgb(195,53,58);
+	margin-left: 15px;
+	margin-top: -10px;
+}
+.btn{
+	margin-top: 20px;
+	width: 100%;
+	height:80px; 
+	color: white;
+	background-color: rgb(246,33,75);
+}
+.nen{
+	float: left;
+}
+.card-body { 
+	background-color:#fff;
+	width: 60%;
+	border-radius: 10px;
+	margin-right: 70px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding: 10px; 
+	float: right;
+}
+.form-group {
+    margin: 20px 0px;
+}
+.dtt{
+	font-size: 50px;
+	color: white;
+}
+/*End mid6 css*/
+/*Start mid7 css*/
+.logoo{
+	margin: 50px;
+}
+.mid7{
+	width: 100%;
+}
+.mauchu{
+	color: white;
+	font-size: 20px;
+}
+.socia1{
+	width: 100%;
+	padding: 40px;
+}
+.slider-cocial{
+	text-align: center;
+}
+.slider-cocial i{
+	color: white;
+	font-size: 40px;
+	text-align: center; 	
+	padding-top: 10px;
+	margin: 20px;
+}
+/*End mid7 css*/
+/*Start mid8 css*/
+.mid8{
+	background-image: url('../images/h1.jpg');   
+	padding: 0px 50px;
+	height: 300px;
+	background-size:cover;
+
+}
+.mauchu1 h2{
+	color: white;
+}
+.mauchu1 h3{
+	color: gray;
+}
+/*End mid8 css*/
+/*Start mid9 css*/
+.map{
+	width: 60%;
+	text-align: center;
+}
+.mid9 h1{
+	font-size: 40px;
+	font-weight: bold;
+}
+.mid9 h3{
+	font-size: 40px;
+	color: gray;
+}
+.cananh{
+	margin-left:30px;
+	margin-top: 30px;
+}
+/*End mid9 css*/
