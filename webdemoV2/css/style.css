@@ -1,0 +1,544 @@
+	body{
+	background-color: rgb(200,200,200);
+}
+img {
+	max-width: 100%;
+}
+.center{
+	text-align: center;
+}
+.clear{
+	clear: both;
+}
+.top-header{
+	width: 100%;
+	height: 780px;
+	background-image: url('../images/ghijkl.jpg');
+	background-position: center center;
+	background-size:cover;
+}
+.color1 {
+	padding-top: 10px;
+    background-image: linear-gradient(90deg, #f76570, #f5816e 16%, #f3a46b 0, #f3a46b 33%, #ffd205 0, #ffd205 50%, #1bbc9b 0, #1bbc9b 66%, #14b9d5 67%, #14b9d5 83%, #c377e4 0, #c377e4);
+    height: 3px;
+}
+/* Start header css*/
+.header{
+	width: 100%;
+	padding: 25px 0;
+}
+.header-content{
+	width: 60%;
+	margin: 0 auto;
+	color: white;
+	text-align: right;
+	margin-right: 5px;
+}
+.header-content i{
+	margin-right: 10px;
+}
+.header-content span{
+	margin-right: 20px;
+}
+/* End header css*/
+/* Start navbar css*/
+.container-fluid{
+	width: 50%;
+}
+.navbar-default {
+	height: 100px;
+	background-color: rgb(29,57,110);
+	opacity: 0.8;
+  	filter: alpha(opacity=80);
+}
+.myNavbar{
+	padding: 20px;
+	background-color: rgb(29,57,110);
+	opacity: 0.8;
+  	filter: alpha(opacity=80);
+}
+.myNavbar-brand, .container-fluid, .social{
+	float: left;
+}
+.navbar-default .navbar-nav>li>a {
+    color: black;
+	font-size: 15px;
+	text-decoration: none;
+	text-align: center;
+	margin-right: 40px;
+}
+.myNavbar-brand{
+	width: 30%;
+	padding-top: 5px;
+	padding-left: 100px;
+}
+
+.social{
+	width: 20%;
+	padding: 20px;
+	text-align: center;	
+	float: right;
+}
+.social-item{
+	float: right;
+	margin-right: 40px;
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+}
+.social-item i{
+	font-size: 20px;	
+	padding-top: 10px;
+	padding-left: 13px;
+}
+.fb-social{
+	background-color: white;
+	color: blue;
+}
+.instagram-social{
+	background-color: white;
+	color: blue;
+}
+.in-social{
+	background-color: white;
+	color: blue;
+}
+/* End navbar css*/
+/* Start slider css*/
+.caption{
+	margin-top: 250px;
+	margin-left: 40px;
+	color: white;
+}
+.slider{
+	color: white;
+	margin: 50px;
+	margin-top: 150px;
+}
+.slider-caption{
+	font-size: 40px;
+}
+.button1{
+	background-color: rgb(0,113,188);
+  	border: none;
+  	color: white;
+  	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 30px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+.banchon1, .datlich{
+	font-size: 30px;
+	padding: 20px 40px;
+}
+.kdt{
+	font-size: 30px;
+}
+/* End slider css*/
+
+/* Start mid1 css*/
+.mid1{
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 80px;
+}
+.dtdctc{
+	margin: 50px;
+	font-size: 40px;
+}
+.quatrai{
+	float: left;
+}
+.quatraii{
+	padding-bottom: 40px;
+}
+.quatrai h4{
+	font-size: 30px;
+	padding: 20px 10px 0px 0px;
+}
+.quatrai p{
+	color: gray;
+	font-size: 20px;
+}
+.quatrai a{
+	color: red;
+	text-decoration: underline;
+}
+/* End mid1 css*/
+
+/* Start mid2 css*/
+.mid2{
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.mqdd p{
+	padding: 50px;
+	font-size: 40px;
+	font-weight: bold;
+	color: black;
+}
+.mqdd1 p{
+	font-size: 40px;
+	color: gray;
+}
+.nutmaucam{
+	width: 100%;
+	margin-top: 60px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+.btn1{
+	background-color: rgb(247,147,30);
+  	border: none;
+  	color: white;
+ 	padding: 15px 15px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 30px;
+   	margin: 4px 2px;
+  	cursor: pointer;
+}
+/* End mid2 css*/
+
+/* Start mid3 css*/
+.mid3{
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.truso{
+	width: 100%;
+}
+.truso p{
+	padding-top: 50px;
+	padding-left: 70px;
+	font-size: 40px;
+	color: black;
+}
+.truso h3{
+	padding-left: 70px;
+	font-size: 30px;
+	color: gray;
+}
+/* End mid3 css*/
+
+/* Start mid4 css*/
+.mid4{
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 30px;
+}
+.tmn p{
+	padding-top: 50px;
+	font-size: 50px;
+	font-weight: bold;
+	color: black;
+}
+.tmn h3{
+	padding-bottom: 70px;
+	font-size: 30px;
+	color: black;
+}
+.quatrai1{
+	width: 100%;
+	background-color: rgb(230,230,230);
+	float: left;
+	margin-bottom: 30px;
+}
+.quatrai1 h4{
+	font-size: 30px;
+	padding: 20px 10px 0px 0px;
+}
+.quatrai1 p{
+	color: black;
+	padding: 20px;
+	font-size: 30px;
+	font-weight: bold;
+}
+.quatrai1 h3{
+	color: red;
+	padding-left: 20px;
+
+}
+/* End mid4 css*/
+
+/* Start mid5 css*/
+.mid5 {
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+}
+.doitacgla p{
+	padding-top: 50px;
+	font-size: 50px;
+	font-weight: bold;
+	color: black;
+}
+.doitacgla h3{
+	padding-bottom: 70px;
+	font-size: 30px;
+	color: gray;
+}
+.partner-logo{
+	border: 2px solid #f7f7f7; margin-bottom: 30px; 
+}
+img.grayscale{ 
+	filter: grayscale(1); opacity: .6; cursor: pointer; 
+}
+img.grayscale:hover{
+	filter: grayscale(0); opacity: 1; transition-property: filter; transition-duration: 1s; 
+}
+.khungdoitac{
+	text-align: center;
+	padding: 20px;
+	background-color: rgb(248,249,250);
+}
+/* End mid5 css*/
+
+/* Start mid6 css*/
+.mid6{
+	padding: 50px;
+	padding-bottom: 100px;
+}
+.bg-image{
+	background-image: url('../images/ghijkl.jpg');   
+	background-size:cover;
+}
+.form { 
+	background-color:#fff;
+	width: 100%;
+	border-radius: 5px;
+	padding: 10px;
+}
+.form h3{
+	text-align: center;
+	color: red;
+}
+.btn{
+	margin-top: 20px;
+	width: 100%;
+	height:80px; 
+	color: white;
+	background-color: rgb(246,33,75);
+}
+.form-group {
+    margin: 20px 20px;
+}
+input.form-control { 
+	font-size: 20px;
+	height:80px; 
+	background: #f7f7f7; 
+	border: 1px solid #e4e4e4; 
+	border-radius: 10px; 
+	-webkit-box-shadow: inset 0 0px 0px rgba(0, 0, 0, .075); 
+	box-shadow: inset 0 0px 0px rgba(0, 0, 0, .075); 
+}
+input.bura {
+	height:140px; 
+	background: #f7f7f7; 
+	border: 1px solid #e4e4e4; 
+	border-radius: 10px; 
+	-webkit-box-shadow: inset 0 0px 0px rgba(0, 0, 0, .075); 
+	box-shadow: inset 0 0px 0px rgba(0, 0, 0, .075); 
+}
+.lienhe{
+	padding: 50px;
+}
+.lienhe h2{
+	color: white;
+}
+.lienhe h3{
+	font-size: 20px;
+	color: white;
+}
+/* End mid6 css*/
+
+/*Start mid7 css*/
+.logoo{
+	margin: 50px;
+}
+.mid7{
+	width: 100%;
+}
+.mauchu{
+	color: white;
+	font-size: 20px;
+}
+.socia1{
+	width: 100%;
+	padding: 40px;
+}
+.slider-cocial{
+	text-align: center;
+}
+.slider-cocial i{
+	color: white;
+	font-size: 40px;
+	text-align: center; 	
+	padding-top: 10px;
+	margin: 20px;
+}
+/*End mid7 css*/
+
+/* Start mid8 css*/
+.mid8{
+	width: 50%;
+	padding-top: 50px;
+	padding-left: 80px;
+}
+.mid8 h3{
+	font-size: 35px;
+	font-weight: bold;
+	color: white;
+}
+.mid8 p{
+	padding-bottom: 20px;
+	font-size: 25px;
+	color: gray;
+}
+/* End mid8 css*/
+
+/* Start mid9 css*/
+.mid9{
+	margin: 50px;
+}
+.mid9 h3{
+	padding-left: 30px;
+	padding-bottom: 30px;
+	font-size: 35px;
+	font-weight: bold;
+	color: black;
+}
+.mid9 p{
+	font-size: 35px;
+	color: black;
+}
+.cananh{
+	padding: 10px;
+	text-align: center;
+}
+.visao{
+	padding: 30px;
+	text-align: center;
+}
+/* End mid9 css*/
+
+/* Start mid0 css*/
+.mid10{
+	margin: 0px 50px 50px 50px;
+}
+.khung{
+	padding: 20px;
+}
+.mid10 h3{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-size: 35px;
+	font-weight: bold;
+	color: black;
+}
+.mid10 p{
+	padding-bottom: 30px;
+	font-size: 35px;
+	color: gray;
+}
+.mid10 h2{
+	color: red;
+    text-decoration: underline;
+}
+.khung{
+	border: 1px solid black;
+	margin: 20px;
+}
+
+/* End mid0 css*/
+
+/* Start mid4 coppy css*/
+.btn2{
+	background-color: rgb(247,147,30);
+  	border-radius: 3px;
+  	color: white;
+  	width: 200px;
+ 	padding: 15px 15px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 30px;
+   	margin: 20px;
+  	cursor: pointer;
+}
+.btn3{
+	background-color: rgb(230,230,230);
+  	border-radius: 3px;
+  	color: black;
+  	width: 200px;
+ 	padding: 15px 15px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 30px;
+   	margin: 20px;
+  	cursor: pointer;
+}
+.btn4{
+	background-color: rgb(230,230,230);
+  	border-radius: 3px;
+  	color: rgb(230,230,230);
+  	width: 200px;
+ 	padding: 15px 15px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 30px;
+   	margin: 20px;
+  	cursor: pointer;
+}
+.xuong{
+	padding-bottom: 20px;
+}
+/* End mid4 coppycss*/
+
+/* Start mid11 css*/
+.mid11{
+	margin: 30px;
+}
+.mid11 h3{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-size: 35px;
+	font-weight: bold;
+	color: black;
+}
+.mid11 h4{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-size: 35px;
+	font-weight: bold;
+	color: rgb(77,77,77);
+}
+.mid11 p{
+	padding-top: 1px;
+	padding-bottom: 10px;
+	font-size: 35px;
+	color: black;
+}
+.btn11{
+	margin-top: 20px;
+	width: 80%;
+	height:80px; 
+	color: white;
+	background-color: rgb(246,33,75);
+}
+.form11 { 
+	background-color:#fff;
+	width: 80%;
+	border-radius: 5px;
+}
+.form-group11 {
+    margin: 20px 0px;
+}
+/* End mid11 css*/
